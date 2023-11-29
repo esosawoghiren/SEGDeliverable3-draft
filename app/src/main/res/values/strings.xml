@@ -18,6 +18,7 @@
     <string name="ButtonText">Register</string>
 
     <!-- string for the specialization choices (alphabetized)-->
+    <string name="select">Select Item</string>
     <string name="anes">Anesthesiology</string>
     <string name="cardi">Cardiology</string>
     <string name="emer">Emergency Medicine</string>
